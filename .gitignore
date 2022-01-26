@@ -1,0 +1,6 @@
+.aws
+awscliv2.sig
+awscliv2.zip
+aws/install
+aws/dist/*
+.devcontainer/aws-creds.sh
